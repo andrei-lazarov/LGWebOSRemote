@@ -5,12 +5,13 @@ Command line webOS remote for LGTVs. This tool uses a connection via websockets 
 
 ### Tested with
 
-  * UF830V
-  * UH650V
-  * UJ635V
-  * UF776V
   * HU80KG.AEU (CineBeam 4K)
   * OLED55B7
+  * UF776V
+  * UF830V
+  * UH650V
+  * UJ620V
+  * UJ635V
   * [please add more!]
 
 Tested with python 2.7 on mac/linux and works fine, your mileage may vary with windows, patches welcome.
